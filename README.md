@@ -1,6 +1,6 @@
 # Eae, sou Leonardo Rocha, seja bem vindo 👋
 <div>
-   <a href="https://github.com/GustavinhoDantas">
+   <a href="https://github.com/TRxcha">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRxcha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRxcha&layout=compact&langs_count=6&theme=dark"/>
 </div>
